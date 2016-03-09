@@ -1,0 +1,1 @@
+.PAGE 'BASIC AID'.OPT NOLIST;*********************************=$C000 ; SYS 49152;*********************************;;         BASIC AID 64;      BASICAID.C64 V072882;       BASIC V2 EXTENSION;; (C) 1982 BY COMMODORE MACHINES;;  DOCUMENTED BY DENTON MARLOWE;*********************************.FIL BA.ASM;*********************************.END

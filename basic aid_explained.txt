@@ -1,0 +1,29 @@
+0 print"{clear}{down}{down}{down}load"chr$(34)"basic aid.ml"chr$(34)","peek(186)",1":print"{down}{down}{down}{down}new"
+1 print"{down}{down}sys49152{home}":poke198,3:poke631,13:poke632,13:poke633,13:end
+2 rem chr$(34) = "
+3 rem 186 = current device number, ie 8
+4 rem 198 = number characters in keyboard buffer
+5 rem 631-640 keyboard buffer
+6 rem 13 = return
+7 rem clear screen and home cursor
+8 rem cursor down 3 lines
+8 rem load"basic aid.ml",8,1
+9 rem cursor down 4 lines
+10 print "new"
+11 rem cursor down 2 lines
+12 rem print -> sys49152
+13 rem return curisr to home (upper left)
+14 rem load keyboard buffer with 3 returns
+15 rem the result is 
+
+=======================================================================
+
+
+
+load"basic aid.ml",8,1
+
+
+
+new
+
+sys49152

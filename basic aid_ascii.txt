@@ -1,0 +1,2 @@
+0 print"{clr}{3 down}load"chr$(34)"basic aid.ml"chr$(34)","peek(186)",1":print"{4 down}new"
+1 print"{2 down}sys49152{home}":poke198,3:poke631,13:poke632,13:poke633,13:end
